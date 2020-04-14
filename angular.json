@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "router-tutorial"
+    }
+  },
+  "defaultProject": "router-tutorial",
+  "cli": {
+    "analytics": "ce9cef47-0d6d-443e-9abe-ecc86b0d2004"
+  }
 }
